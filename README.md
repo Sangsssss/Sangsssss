@@ -4,7 +4,8 @@
 <h3 align="center">I dream of becoming a game developer "opening up new worlds".</h3>
 
 <h2> What I Want </h2>
-<p> 저는 이러한 개발자가 되고 싶습니다. </p>
+<p> 어떻게 보다 왜가 궁금한 개발자, 이상원입니다. 항상 '왜'라는 질문을 잊지 않
+고, 깊이 있는 개발을 추구하는 열정적인 개발자가 되고싶습니다." </p>
 
 <h3> About Me </h3>
 <p> 이름 : 이상원</p>
