@@ -33,7 +33,7 @@
     <img src = "https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
   </a>
   <a href = "https://www.notion.so/Sangs-pace-1ba6a4d86eba805eac46d90f9ef58c5e?pvs=11" title = "Sang'space">
-    <img src = "https://img.shields.io/badge/Notion-ecf0f1?style=flat-square&logo=notion&logoColor=white">
+    <img src = "https://img.shields.io/badge/Notion-ecf0f1?style=flat-square&logo=notion&logoColor=black">
   </a>
   <a href = "https://github.com/Sangsssss" title = "Sangs">
     <img src = "https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white">
