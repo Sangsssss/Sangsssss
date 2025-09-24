@@ -32,7 +32,11 @@
    <a href = "https://github.com/Sangsssss" title = "Sangs'Dev">
     <img src = "https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
   </a>
+  <a href = "https://github.com/Sangsssss" title = "Sang'space">
+    <img src = "https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=notion&logoColor=white">
+  </a>
   <a href = "https://github.com/Sangsssss" title = "Sangs">
     <img src = "https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
+  
 </p>
